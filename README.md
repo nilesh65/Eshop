@@ -10,7 +10,8 @@ Now user can access the full stack app.<br>
 
 <img width="926" height="422" alt="image" src="https://github.com/user-attachments/assets/cb45c724-5660-4aa8-91fb-d36960131922" />
 
-<img width="883" height="365" alt="image" src="https://github.com/user-attachments/assets/b0fc1be2-d6a9-4c51-942f-4aede5c1d1dc" />
+<img width="856" height="347" alt="image" src="https://github.com/user-attachments/assets/665b2e44-7f8b-4f0c-9411-c58a973bf2f3" />
+
 
 <img width="887" height="386" alt="image" src="https://github.com/user-attachments/assets/2c43c6c4-977f-409a-a9cd-766bfffd7a35" />
 
